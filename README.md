@@ -66,10 +66,12 @@ If you have suggestions for this list, you can...
 * [Словари и энциклопедии на Академике](https://dic.academic.ru/)
 * [StarLing dictionaries](http://starling.rinet.ru/cgi-bin/main.cgi?flags=eygtmnl)
 * [StarLing inflection/conjugation/declension](http://starling.rinet.ru/cgi-bin/morphque.cgi?flags=endnnnn)
+* [gramota.ru](http://gramota.ru/)
 
 #### Grammars
 
 * [Русская корпусная грамматика](http://rusgram.ru/index) based on Russian National Corpus
+* [Русская Грамматика](http://www.rusgram.narod.ru/)
 * Duke's [Russian Reference Grammar](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=6)
 * [Grammar tables — LearnRussian](http://learnrussian.rt.com/grammar-tables/)
 * [RussianLessons.net](http://www.russianlessons.net)
@@ -88,6 +90,7 @@ If you have suggestions for this list, you can...
 
 ## Pronunciation
 
+* [Forvo pronunciation dictionary](https://forvo.com/languages/ru/)
 * [EasyPronunciation.com - transcription](https://easypronunciation.com/en/russian-phonetic-transcription-converter)
 * [EasyPronunciation.com - add stress marks](https://easypronunciation.com/en/add-stress-marks-to-russian-text)
 * [VowelWorm](https://byu-odh.github.io/apeworm/)
