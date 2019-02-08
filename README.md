@@ -29,7 +29,7 @@ If you have suggestions for this list, you can...
   * [Games](#games)
   * [Interacting with authentic content](#interacting-with-authentic-content)
   * [Film](#film)
-  * [Communication](#communication)
+  * [Communication](#communication-\(chat,-videoconferencing,-etc.\))
 
 ## Resources for teachers
 
@@ -156,6 +156,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 * [Real Life in Russia](http://reallifeinrussia.spasova.msu.domains/) – Prepare for life abroad
 * [Russia Beyond](https://www.rbth.com/)
 * [Russian Life magazine](https://www.russianlife.com/)
+* [Twitter](https://twitter.com/)
 
 
 ## Games
@@ -164,7 +165,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 * [Cafe Russia](http://laits.utexas.edu/cafe-russia/)
 
 
-## Authentic content
+## Interacting with authentic content
 
 * H5P activities (by [Shannon Spasova](http://linglang.msu.edu/people/faculty/spasova/))
   * Tutorials
