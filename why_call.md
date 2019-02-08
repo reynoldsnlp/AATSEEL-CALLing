@@ -18,12 +18,12 @@
 
 ## How to evaluate a CALL application
 
-1. Does it _increase_ or _decrease_ the workload, for you or your students?
+* Does it _increase_ or _decrease_ the workload, for you or your students?
   * If it increases the workload, is it worth it?
-1. Does it actually *facilitate* a better approach to teaching/learning? (rather than the `oooh, shiny!` effect)
+* Does it actually *facilitate* a better approach to teaching/learning? (rather than the `oooh, shiny!` effect)
   * Flipped classroom
   * Learning by doing
-1. What is the risk of technical failure?
+* What is the risk of technical failure?
   * How likely is the technology to fail?
   * If it fails, do I have the resources to recover quickly?
     * Would a failure be catastrophic to your course?
