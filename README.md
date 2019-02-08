@@ -35,6 +35,7 @@ If you have suggestions for this list, you can...
 
 * [AATSEEL resources for teaching](https://www.aatseel.org/resources/resources_teaching/)
 * [ACTR](http://www.actr.org/)
+  * [teaching materials](http://www.actr.org/teaching-materials.html)
 * `$` [teachrussian.org](http://www.teachrussian.org)
   * resources for teaching Russian as a foreign, second and heritage language.
 * [MERLOT](https://www.merlot.org): curated online learning and support materials and content creation tools
