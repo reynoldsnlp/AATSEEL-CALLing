@@ -3,7 +3,6 @@
 Resources for AATSEEL workshop on Russian CALL (Computer-Assisted
 Language Learning).
 
-NO RUSSIAN at WorldCALL 5!
 Paid resources are marked with a `$`.
 
 Some thoughts about pros and cons of CALL are [here](why_call.md).
@@ -14,8 +13,23 @@ Some thoughts about pros and cons of CALL are [here](why_call.md).
 If you have suggestions for this list, you can...
   * submit an issue (requires github account)
   * tag me in a tweet (`@reynoldsnlp`)
-  * write me an email (`robert\_reynolds@byu.edu`)
+  * write me an email (`robert_reynolds@byu.edu`)
 
+
+## Table of Contents
+  * [Resources for teachers](#resources-for-teachers)
+  * [Courses](#courses)
+  * [Pronunciation](#pronunciation)
+  * [Reading](#reading)
+  * [Dictionaries and Grammars](#dictionaries-and-grammars)
+  * [Vocabulary](#vocabulary)
+  * [Classroom activities](#classroom-activities)
+  * [Listening](#listening)
+  * [Culture](#culture)
+  * [Games](#games)
+  * [Interacting with authentic content](#interacting-with-authentic-content)
+  * [Film](#film)
+  * [Communication](#communication)
 
 ## Resources for teachers
 
@@ -35,6 +49,8 @@ If you have suggestions for this list, you can...
 
 * [Kristine Shmakov's SECOND YEAR RUSSIAN](http://spot.pcc.edu/~kshmakov/201/201.htm)
 * [Между нами](http://www.mezhdunami.org/)
+* `$` [Mango Classroom](https://mangolanguages.com/higher-ed/)
+* [Duolingo](duolingo.com)
 
 
 ## Pronunciation
@@ -48,13 +64,14 @@ If you have suggestions for this list, you can...
 
 ## Reading
 
+* [Middlebury alphabet tutorial](http://digitalrussian.middcreate.net/prepare/alphabet-practice/)
 * Duke's [Advanced Russian Reading](https://slaviccenters.duke.edu/projects/advanced-russian)
 * [RRSS - Reading Russian Short Stories](https://fzachoval.com/rrss/)
 * [Middlebury - Russian Reader](http://sites.middlebury.edu/russianshortstories/)
 * [Yale - Russian Poetry for Learners of Russian](http://russianpoetry.yale.edu/index.html)
 
 
-## Grammars, references
+## Dictionaries and grammars
 
 #### Dictionaries
 
@@ -65,7 +82,7 @@ If you have suggestions for this list, you can...
 * [StarLing dictionaries](http://starling.rinet.ru/cgi-bin/main.cgi?flags=eygtmnl)
 * [StarLing inflection/conjugation/declension](http://starling.rinet.ru/cgi-bin/morphque.cgi?flags=endnnnn)
 
-#### Grammar
+#### Grammars
 
 * [Оглавление | Русская грамматика](http://rusgram.ru/index)
 * Duke's [Russian Reference Grammar](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=6)
@@ -74,8 +91,9 @@ If you have suggestions for this list, you can...
   * also [on YouTube](https://www.youtube.com/channel/UCq1b1x1nZbV-rmZDb3XOB2g)
 * [Russian grammar - YouTube](https://www.youtube.com/user/russiangrammar)
 * [Amazing Russian - YouTube](https://www.youtube.com/channel/UCymAc4YKWYjDqNnLoK7m-2A)
-* [MH Learn & Go on the App Store](https://itunes.apple.com/us/app/mh-learn-go/id1301314150?mt=8)  ???
-* [Государственный институт русского языка им. А.С. Пушкина](https://www.pushkin.institute/)  ???
+* Learn & Go: Free app for practicing Verbs of Motion
+  * [on the App Store](https://itunes.apple.com/us/app/learn-go/id1175916779?mt=8&ign-mpt=uo%3D4)
+  * [on Google Play](https://play.google.com/store/apps/details?id=io.cordova.myapp384cc6)
 * [PushkinOnline — Main](https://pushkininstitute.ru/)
 * [Don't Forget Russian](https://dontforgetrussian.weebly.com/)
 * [RUSLO: Russian Learning Objects](http://myweb.uiowa.edu/akolesni/los.html)
@@ -93,9 +111,12 @@ If you have suggestions for this list, you can...
 
 * [memrise](memrize.com)
 * [quizlet](quizlet.com)
+* [Instagram word of the day](https://www.instagram.com/russian.word/)
 
 
-## Classroom activities, quizzes, etc.
+## Classroom activities
+
+#### Quizzes
 
 * [Kahoot](https://kahoot.it/)
 * [See-Saw](https://web.seesaw.me/)
@@ -125,6 +146,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 * [Радио Звезда](http://radiozvezda.ru) podcasts and other programs
 * [Старое радио](http://staroeradio.ru/) - радиопостановки, радиоспектакли, сказки, песни СССР, школьная фонохрестоматия
 * [Amazing Russian - YouTube](https://www.youtube.com/channel/UCymAc4YKWYjDqNnLoK7m-2A)
+* [АльфаОмега](https://alphaomega.video/ru/)
 
 
 ## Culture
@@ -136,31 +158,32 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 * [Russian Life magazine](https://www.russianlife.com/)
 
 
-## Activities, games, etc.
+## Games
 
-* [Hello World](http://hello-world.com/languages.php/?language=Russian&translate=English) - More than 600 FREE Russian games and activities
+* [Hello World](http://hello-world.com/languages.php/?language=Russian&translate=English) - More than 600 FREE Russian games and activities (especially good for children)
 * [Cafe Russia](http://laits.utexas.edu/cafe-russia/)
 
 
 ## Authentic content
 
-  * H5P activities (by [Shannon Spasova](http://linglang.msu.edu/people/faculty/spasova/))
-    * Tutorials
-      * [FLT Mag](https://fltmag.com/speaking-activities-h5p-tutorial/)
-      * [Getting Started with H5P: Interactive Video](https://www.youtube.com/watch?list=PLtIC2IX7qP1w-Uc0XzzF4nvnzoO2l-9AD&v=UOmGaRaohH0)
-      * [Getting Started with H5P: Course Presentation](https://www.youtube.com/watch?list=PLtIC2IX7qP1w-Uc0XzzF4nvnzoO2l-9AD&v=xDuwfPm_vWY)
-    * Examples
-      * [alphabet review lesson](https://h5p.org/node/74237)
-      * [lesson based on Masha i medved'](https://h5p.org/node/23067)
-      * [some politeness formulas](https://h5p.org/node/80154)
-      * [languages](https://h5p.org/node/244866)
-      * [dative feelings](https://h5p.org/node/42828)
-  * [VIEW](http://sifnos.sfs.uni-tuebingen.de/VIEW/index.jsp?content=intro) Visual Input Enhancement of the Web
-    * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/view)
-    * [Chrome](https://chrome.google.com/webstore/detail/view/hdheflmgjpockmkcadghgapjfidobkoi)
-    * [Opera](https://addons.opera.com/de/extensions/details/view-language-learning-on-any-webpage/?display=en)
-  * [FLAIR](http://sifnos.sfs.uni-tuebingen.de/FLAIR/) Web search for language learning
-    * Russian will be added [here](http://ape.byu.edu:8080/flair-2.0) very soon!
+* H5P activities (by [Shannon Spasova](http://linglang.msu.edu/people/faculty/spasova/))
+  * Tutorials
+    * [FLT Mag](https://fltmag.com/speaking-activities-h5p-tutorial/)
+    * [Getting Started with H5P: Interactive Video](https://www.youtube.com/watch?list=PLtIC2IX7qP1w-Uc0XzzF4nvnzoO2l-9AD&v=UOmGaRaohH0)
+    * [Getting Started with H5P: Course Presentation](https://www.youtube.com/watch?list=PLtIC2IX7qP1w-Uc0XzzF4nvnzoO2l-9AD&v=xDuwfPm_vWY)
+  * Examples
+    * [alphabet review lesson](https://h5p.org/node/74237)
+    * [lesson based on Masha i medved'](https://h5p.org/node/23067)
+    * [some politeness formulas](https://h5p.org/node/80154)
+    * [languages](https://h5p.org/node/244866)
+    * [dative feelings](https://h5p.org/node/42828)
+* [Ayamel](https://ayamel.byu.edu/) - Interactive subtitles, etc.
+* [VIEW](http://sifnos.sfs.uni-tuebingen.de/VIEW/index.jsp?content=intro) Visual Input Enhancement of the Web
+  * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/view)
+  * [Chrome](https://chrome.google.com/webstore/detail/view/hdheflmgjpockmkcadghgapjfidobkoi)
+  * [Opera](https://addons.opera.com/de/extensions/details/view-language-learning-on-any-webpage/?display=en)
+* [FLAIR](http://sifnos.sfs.uni-tuebingen.de/FLAIR/) Web search for language learning
+  * Russian beta version will be added [here](http://ape.byu.edu:8080/flair-2.0) very soon!
 
 
 ## Film
@@ -168,7 +191,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
   * [Popkult list of resources](http://popkult.org/free-russian-movies-music/)
   * [Wikia Russian Cinema Wiki](http://russiancinema.wikia.com/wiki/RussianCinema_Wiki)
   * `$` [Soviet Movies Online](https://sovietmoviesonline.com/) Soviet and Russian Movies in English online
-  * [Mosfilm](https://www.mosfilm.ru/main.php) Официальный сайт ФГУП "Киноконцерн "Мосфильм" - киностудия в Москве 
+  * [Mosfilm](http://cinema.mosfilm.ru/) Официальный сайт ФГУП "Киноконцерн "Мосфильм" - киностудия в Москве 
     * also [on YouTube](https://www.youtube.com/channel/UCEK3tT7DcfWGWJpNEDBdWog)
   * [megogo.net](https://megogo.net/ru) фильмы и телеканалы онлайн
   * Duke's [Russian Language and Culture through Film](https://seelrc-iis.trinity.duke.edu/ctf2/)
@@ -178,8 +201,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
     * [Panorama Russian Textbook](https://www.youtube.com/channel/UCJHxZc4DjTVdNEIsXfPKErA/videos)
     * [RussColl](https://www.youtube.com/channel/UCUCF5jkIYpRWuUtiV5x3WRA/featured)
   * [6 кадров (Cornell)](http://russian.cornell.edu/mini/index.cfm) Humorous sketches with transcripts
-  * [АльфаОмега](https://alphaomega.video/ru/)
-  * [3ears](https://3ears.com/media)
+  * [3ears](https://3ears.com/media) - Immersive interactive videos
 
 
 ## Communication (chat, videoconferencing, etc.)
@@ -192,7 +214,3 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
   * [article](https://www.jstor.org/stable/43669810)
 
 
-## Online courses
-
-  * `$` [Mango Classroom](https://mangolanguages.com/higher-ed/)
-  * [Duolingo](duolingo.com)
