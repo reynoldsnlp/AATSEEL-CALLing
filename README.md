@@ -72,7 +72,7 @@ If you have suggestions for this list, you can...
 #### Grammars
 
 * [Русская корпусная грамматика](http://rusgram.ru/index) based on Russian National Corpus
-* [Русская Грамматика](http://www.rusgram.narod.ru/)
+* [Русская Грамматика (Академия Наук СССР)](http://www.rusgram.narod.ru/)
 * Duke's [Russian Reference Grammar](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=6)
 * [Grammar tables — LearnRussian](http://learnrussian.rt.com/grammar-tables/)
 * [RussianLessons.net](http://www.russianlessons.net)
