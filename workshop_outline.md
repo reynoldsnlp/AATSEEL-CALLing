@@ -1,4 +1,5 @@
 * Introduce myself
+  * Started teaching Russian in 2002 (haven't taught Russian since 2016)
   * _Intelligent_ Computer-Assisted Language Learning
     * Dynamic, reusable utilites, as opposed to monolithic, hard-coded applications
   * I build very low-level utilities specifically for language-learning applications
@@ -14,6 +15,8 @@
           * Link specific error tags to grammar explanations/exercises
         * L2correct
           * Did you mean `_________`?
+    * Automatic grammar exercise generation (shown later)
+    * Automatic analysis of document reading level
 * Why CALL?
 * How to determine when/whether to use a CALL application
 * Guided tour through Russian CALL utilities
