@@ -43,6 +43,7 @@ If you have suggestions for this list, you can...
 * [Project Modelino](https://project-modelino.com/online-resources-category.php?site_language=english&learn_language=russian)
 * [Facebook group - Преподаватели РКИ](https://www.facebook.com/groups/363287790678977/)
 * [Facebook group - Методика преподавания РКИ для всех](https://www.facebook.com/RKI.MGURussian/)
+* [Public Google Doc](https://docs.google.com/document/d/1ujhCptzX5Tyl-PxBbN55NUVV2x0Q02HyHFOBtjVkkFQ/edit#heading=h.8112fu9oie8o) made by Evgeny Dengub
 * [STARTALK](https://startalk.umd.edu/public/)
 
 
