@@ -11,7 +11,7 @@ Some thoughts about pros and cons of CALL are [here](why_call.md).
 #### Suggestions and improvements
 
 If you have suggestions for this list, you can...
-  * submit an issue (requires github account)
+  * submit an issue (requires registering on github)
   * tag me in a tweet (`@reynoldsnlp`)
   * write me an email (`robert_reynolds@byu.edu`)
 
@@ -29,7 +29,7 @@ If you have suggestions for this list, you can...
   * [Games](#games)
   * [Interacting with authentic content](#interacting-with-authentic-content)
   * [Film](#film)
-  * [Communication](#communication-\(chat,-videoconferencing,-etc.\))
+  * [Communication](#communication-chat-videoconferencing-etc)
 
 ## Resources for teachers
 
@@ -51,7 +51,8 @@ If you have suggestions for this list, you can...
 * [Между нами](http://www.mezhdunami.org/)
 * `$` [Mango Classroom](https://mangolanguages.com/higher-ed/)
 * [Duolingo](duolingo.com)
-
+* [Golosa](https://www2.gwu.edu/~slavic/golosa/) audio and video
+* [Troika](http://bcs.wiley.com/he-bcs/Books?action=index&itemId=0470646322&bcsId=6425) audio and video
 
 ## Pronunciation
 
@@ -84,7 +85,7 @@ If you have suggestions for this list, you can...
 
 #### Grammars
 
-* [Оглавление | Русская грамматика](http://rusgram.ru/index)
+* [Русская корпусная грамматика](http://rusgram.ru/index) based on Russian National Corpus
 * Duke's [Russian Reference Grammar](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=6)
 * [Grammar tables — LearnRussian](http://learnrussian.rt.com/grammar-tables/)
 * [RussianLessons.net](http://www.russianlessons.net)
@@ -97,6 +98,8 @@ If you have suggestions for this list, you can...
 * [PushkinOnline — Main](https://pushkininstitute.ru/)
 * [Don't Forget Russian](https://dontforgetrussian.weebly.com/)
 * [RUSLO: Russian Learning Objects](http://myweb.uiowa.edu/akolesni/los.html)
+  * also [here](https://sites.google.com/site/ruslowebsite/open-access-los)?
+* [MasterRussian.com](http://masterrussian.com/)
 
 
 ## Vocabulary
@@ -106,6 +109,7 @@ If you have suggestions for this list, you can...
 * [EasyPronunciation.com frequency](https://easypronunciation.com/en/russian-word-frequency-counter#result)
 * [reynoldsnlp: Word frequencies from word list](http://reynoldsnlp.com/freq)
 * [CoCoCo](http://cococo.cosyco.ru/): Collocations, Colligations, and Corpora
+* [Russian National Corpus](http://ruscorpora.ru/)
 
 #### Flashcards, etc.
 
@@ -151,12 +155,18 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 
 ## Culture
 
+* [Лингвострановедческий словарь “Россия”](https://ls.pushkininstitute.ru/lsslovar/index.php)
 * [TheQuestion](https://thequestion.ru/) – Вопросы и ответы
-* [Традиции народов России](https://www.culture.ru/traditions): обычаи, обряды, приметы, гадания
+* [Culture.ru](https://www.culture.ru/)
+  * [Традиции народов России](https://www.culture.ru/traditions): обычаи, обряды, приметы, гадания
 * [Real Life in Russia](http://reallifeinrussia.spasova.msu.domains/) – Prepare for life abroad
-* [Russia Beyond](https://www.rbth.com/)
+* [Russia Beyond the Headlines](https://www.rbth.com/)
 * [Russian Life magazine](https://www.russianlife.com/)
+* [BBC Русская Служба](https://www.bbc.com/russian)
 * [Twitter](https://twitter.com/)
+* [Instagram](https://www.instagram.com/)
+* [ЛучСвета](http://luchsveta.org/)
+* [Michelle Berdy's column](https://themoscowtimes.com/authors/18) in the Moscow Times
 
 
 ## Games
@@ -209,6 +219,8 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 
 * [WhatsApp](whatsapp.com)
 * [Marco Polo](http://www.marcopolo.me/)
+* [FlipGrid](https://flipgrid.com/)
+* [Perusall](https://perusall.com/) social textbook assignments
 * Debate on [Skype](), [Hangouts](), [Zoom](), or any other videoconferencing app.
   * Tony Brown and Jennifer Bown (BYU) have published resources about this:
   * [textbook](http://press.georgetown.edu/book/languages/mastering-russian-through-global-debate)
