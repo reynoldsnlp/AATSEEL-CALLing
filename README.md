@@ -11,7 +11,8 @@ Some thoughts about pros and cons of CALL are [here](why_call.md).
 #### Suggestions and improvements
 
 If you have suggestions for this list, you can...
-  * submit an issue (requires registering on github)
+  * submit an issue
+    * requires registering a (free) account on github
   * tag me in a tweet (`@reynoldsnlp`)
   * write me an email (`robert_reynolds@byu.edu`)
 
@@ -45,6 +46,7 @@ If you have suggestions for this list, you can...
 * [Facebook group - Методика преподавания РКИ для всех](https://www.facebook.com/RKI.MGURussian/)
 * [Public Google Doc](https://docs.google.com/document/d/1ujhCptzX5Tyl-PxBbN55NUVV2x0Q02HyHFOBtjVkkFQ/edit#heading=h.8112fu9oie8o) made by Evgeny Dengub
 * [STARTALK](https://startalk.umd.edu/public/)
+* [learningapps.org](https://learningapps.org/index.php?category=84&s=)
 
 
 ## Courses
@@ -62,7 +64,9 @@ If you have suggestions for this list, you can...
 #### Dictionaries
 
 * Duke's [Russian Grammatical Dictionary](https://seelrc-iis.trinity.duke.edu/russdict/)
-* [Lingvo Live. Online translation dictionary from ABBYY.](https://www.lingvolive.com/en-us)
+* `$`[Lingvo Live. Online translation dictionary from ABBYY.](https://www.lingvolive.com/en-us)
+* [Wiktionary](https://ru.wiktionary.org)
+* [Reverso Context](https://context.reverso.net/translation/russian-english/)
 * [Мультитран](https://www.multitran.ru/)
 * [Словари и энциклопедии на Академике](https://dic.academic.ru/)
 * [StarLing dictionaries](http://starling.rinet.ru/cgi-bin/main.cgi?flags=eygtmnl)
@@ -87,6 +91,8 @@ If you have suggestions for this list, you can...
 * [RUSLO: Russian Learning Objects](http://myweb.uiowa.edu/akolesni/los.html)
   * also [here](https://sites.google.com/site/ruslowebsite/open-access-los)?
 * [MasterRussian.com](http://masterrussian.com/)
+* [MasterRussian.net](http://masterrussian.net/)
+* [Russian StackExchange](https://russian.stackexchange.com/) World-class question-answer framework.
 
 
 ## Pronunciation
@@ -106,6 +112,7 @@ If you have suggestions for this list, you can...
 * [EasyPronunciation.com frequency](https://easypronunciation.com/en/russian-word-frequency-counter#result)
 * [reynoldsnlp: Word frequencies from word list](http://reynoldsnlp.com/freq)
 * [CoCoCo](http://cococo.cosyco.ru/): Collocations, Colligations, and Corpora
+* [CrossLexica](https://www.xl.gelbukh.com/en)
 * [Russian National Corpus](http://ruscorpora.ru/)
 
 #### Flashcards, etc.
@@ -122,6 +129,9 @@ If you have suggestions for this list, you can...
 * [RRSS - Reading Russian Short Stories](https://fzachoval.com/rrss/)
 * [Middlebury - Russian Reader](http://sites.middlebury.edu/russianshortstories/)
 * [Yale - Russian Poetry for Learners of Russian](http://russianpoetry.yale.edu/index.html)
+* [Revita](https://revita.cs.helsinki.fi/)
+* [ReadLang](https://readlang.com/webReader)
+* [Arsamas](https://arzamas.academy/)
 
 
 ## Classroom activities
@@ -135,6 +145,7 @@ If you have suggestions for this list, you can...
 * [quizizz](https://quizizz.com/) timed quiz for individuals
 * [mentimeter](https://www.mentimeter.com/)
 * [Google forms](https://www.google.com/forms/about/)
+* [Socrative](https://www.socrative.com/)
 
 #### Gamification
 
@@ -198,6 +209,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
     * [RussColl](https://www.youtube.com/channel/UCUCF5jkIYpRWuUtiV5x3WRA/featured)
   * [6 кадров (Cornell)](http://russian.cornell.edu/mini/index.cfm) Humorous sketches with transcripts
   * [3ears](https://3ears.com/media) - Immersive interactive videos
+  * [Berkeley Foreign Language Film Clips](https://blcvideoclips.berkeley.edu/)
 
 
 ## Communication (chat, videoconferencing, etc.)
@@ -214,7 +226,7 @@ An example of gamifying a language-learning classroom is [here](http://www.pfeff
 
 ## Interacting with authentic content
 
-* H5P activities (by [Shannon Spasova](http://linglang.msu.edu/people/faculty/spasova/))
+* [H5P](https://h5p.org/) activities (by [Shannon Spasova](http://linglang.msu.edu/people/faculty/spasova/))
   * Tutorials
     * [FLT Mag](https://fltmag.com/speaking-activities-h5p-tutorial/)
     * [Getting Started with H5P: Interactive Video](https://www.youtube.com/watch?list=PLtIC2IX7qP1w-Uc0XzzF4nvnzoO2l-9AD&v=UOmGaRaohH0)
